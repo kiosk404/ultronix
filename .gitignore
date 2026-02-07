@@ -39,6 +39,8 @@ node_modules/
 *.local.yml
 /oldimpl
 /vendor
+log
+openclaw/
 *gen_test.go
 .env.dev
 .env.local
